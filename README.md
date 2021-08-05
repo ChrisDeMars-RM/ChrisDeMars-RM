@@ -1,7 +1,7 @@
 ## Hi there, I'm Chris 👋
 
 ## I'm a Developer, Developer Advocate, Horror Fan, Speaker, and Teacher!
-- 🔭 Working on bringing Quicken Loans open source projects to the community!
+- 🔭 Working on bringing Rocket Mortgage open source projects to the community!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate on QL open source projects!
 - 🥅 2021 Goals: Write more blog posts!
